@@ -10,3 +10,5 @@
 [6]: https://codebeat.co/projects/github-com-v2ray-ext-master "CodeBeat status"
 
 More utilities
+
+这里保存了V2ray的断言包，用来研究实现，源仓库已经将Assert移除
